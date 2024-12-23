@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- ajouter une ficher css -->
+    <title>Quiz interactive</title>
+    <style >
+      body{
+                font-family: Arial, sans-serif;
+                text-align: center;
+                padding: 20px;
+            }
+            .question{
+                font-size: 20px;
+                margin-bottom: 15px;
+
+            }
+
+            .answers{
+            display: block;
+            margin: 10px auto;
+            padding: 10px 20px;
+            font-size: 16px;
+            cursor: pointer;
+            }
+            .score{
+                font-size: 18px;
+                margin-top: 20px;
+            }
+    </style>
+</head>
+<body>
+    <div id="quiz-container">
+        <div class="question" id="question">Question here</div>
+        <div class="answers" id="answers"></div>
+        <div class="score" id="score"></div>
+    </div>
+    <script src="quz.js"></script>
+</body>
+</html>

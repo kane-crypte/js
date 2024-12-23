@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1727370959 source:c:\users\lass.desktop-saqtcje\desktop\github\exo3td4\commercial.cpp
+	"Commercial.h"
+
+1727373294 source:c:\users\lass.desktop-saqtcje\desktop\github\exo3td4\main.cpp
+	"Commercial.h"
+	"Manutentionnaire.h"
+	"Personnel.h"
+
+1727373370 c:\users\lass.desktop-saqtcje\desktop\github\exo3td4\employer.h
+	<iostream>
+	<cstring>
+
+1727370800 source:c:\users\lass.desktop-saqtcje\desktop\github\exo3td4\manutentionnaire.cpp
+	"Manutentionnaire.h"
+
+1727350550 source:c:\users\lass.desktop-saqtcje\desktop\github\exo3td4\employer.cpp
+	"Employer.h"
+
+1727373362 c:\users\lass.desktop-saqtcje\desktop\github\exo3td4\commercial.h
+	"Employer.h"
+
+1727373409 c:\users\lass.desktop-saqtcje\desktop\github\exo3td4\manutentionnaire.h
+	"Employer.h"
+
+1727373435 source:c:\users\lass.desktop-saqtcje\desktop\github\exo3td4\personnel.cpp
+	"Personnel.h"
+
+1727372238 c:\users\lass.desktop-saqtcje\desktop\github\exo3td4\personnel.h
+	"Employer.h"
+

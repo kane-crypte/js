@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1727431658 source:c:\users\lass.desktop-saqtcje\desktop\github\exo2td4\employer.cpp
+	"Employe.h"
+
+1727431409 c:\users\lass.desktop-saqtcje\desktop\github\exo2td4\employe.h
+	"Individu.h"
+
+1727431422 c:\users\lass.desktop-saqtcje\desktop\github\exo2td4\individu.h
+	"Base.h"
+
+1727430222 c:\users\lass.desktop-saqtcje\desktop\github\exo2td4\base.h
+	<iostream>
+
+1727516701 source:c:\users\lass.desktop-saqtcje\desktop\github\exo2td4\main.cpp
+	"Employe.h"
+	"Entrprise.h"
+	"liste.h"
+
+1727431673 source:c:\users\lass.desktop-saqtcje\desktop\github\exo2td4\individu.cpp
+	"Individu.h"
+
+1727515739 c:\users\lass.desktop-saqtcje\desktop\github\exo2td4\entrprise.h
+	"Individu.h"
+
+1727515944 source:c:\users\lass.desktop-saqtcje\desktop\github\exo2td4\entreprise.cpp
+	"Entrprise.h"
+
+1727516561 source:c:\users\lass.desktop-saqtcje\desktop\github\exo2td4\liste.cpp
+	"liste.h"
+
+1727516412 c:\users\lass.desktop-saqtcje\desktop\github\exo2td4\liste.h
+	"Base.h"
+

@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1728851097 source:c:\users\lass.desktop-saqtcje\desktop\github\agenda\date.cpp
+	"Date.h"
+
+1728850907 c:\users\lass.desktop-saqtcje\desktop\github\agenda\date.h
+	<iostream>
+	<cstring>
+
+1728856759 source:c:\users\lass.desktop-saqtcje\desktop\github\agenda\main.cpp
+	"CombatDelutte.h"
+	"MatchDefootball.h"
+	"Agenda.h"
+
+1728855788 c:\users\lass.desktop-saqtcje\desktop\github\agenda\evenement.h
+	"Date.h"
+
+1728854476 source:c:\users\lass.desktop-saqtcje\desktop\github\agenda\evenement.cpp
+	"Evenement.h"
+
+1728854940 source:c:\users\lass.desktop-saqtcje\desktop\github\agenda\combatdelutte.cpp
+
+1728855015 source:c:\users\lass.desktop-saqtcje\desktop\github\agenda\matchdefootball.cpp
+
+1728856577 c:\users\lass.desktop-saqtcje\desktop\github\agenda\combatdelutte.h
+	"Evenement.h"
+
+1728856583 c:\users\lass.desktop-saqtcje\desktop\github\agenda\matchdefootball.h
+	"Evenement.h"
+
+1728856913 c:\users\lass.desktop-saqtcje\desktop\github\agenda\agenda.h
+	"Evenement.h"
+

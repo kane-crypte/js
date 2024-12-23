@@ -1,0 +1,6 @@
+#ifndef OISEAU_H_INCLUDED
+#define OISEAU_H_INCLUDED
+
+
+
+#endif // OISEAU_H_INCLUDED

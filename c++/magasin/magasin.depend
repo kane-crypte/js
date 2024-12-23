@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1728677650 source:c:\users\lass.desktop-saqtcje\desktop\github\magasin\article.cpp
+	"Article.h"
+
+1728679975 c:\users\lass.desktop-saqtcje\desktop\github\magasin\article.h
+	<iostream>
+	<cstring>
+
+1728678837 source:c:\users\lass.desktop-saqtcje\desktop\github\magasin\articlelocal.cpp
+	"ArticleLocal.h"
+
+1728679080 source:c:\users\lass.desktop-saqtcje\desktop\github\magasin\main.cpp
+	"ArticleLocal.h"
+
+1728677899 c:\users\lass.desktop-saqtcje\desktop\github\magasin\articleimprter.h
+	"Article.h"
+
+1728678565 source:c:\users\lass.desktop-saqtcje\desktop\github\magasin\articleimprter.cpp
+	"ArticleImprter.h"
+
+1728677939 c:\users\lass.desktop-saqtcje\desktop\github\magasin\articlelocal.h
+	"Article.h"
+
+1728679779 source:c:\users\lass.desktop-saqtcje\desktop\github\magasin\magasin.cpp
+	"magasin.h"
+
+1728679326 c:\users\lass.desktop-saqtcje\desktop\github\magasin\magasin.h
+	"Article.h"
+

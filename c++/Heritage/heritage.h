@@ -1,0 +1,6 @@
+#ifndef HERITAGE_H_INCLUDED
+#define HERITAGE_H_INCLUDED
+
+
+
+#endif // HERITAGE_H_INCLUDED

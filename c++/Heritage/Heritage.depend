@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1724945566 source:c:\users\lass.desktop-saqtcje\desktop\github\heritage\pointcol.cpp
+
+1724946832 source:c:\users\lass.desktop-saqtcje\desktop\github\heritage\main.cpp
+	"point.h"
+	"pointCol.h"
+
+1724946461 c:\users\lass.desktop-saqtcje\desktop\github\heritage\point.h
+	<iostream>
+
+1724946917 c:\users\lass.desktop-saqtcje\desktop\github\heritage\pointcol.h
+	"point.h"
+
+1724946761 source:c:\users\lass.desktop-saqtcje\desktop\github\heritage\point.cpp
+	"point.h"
+
