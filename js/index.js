@@ -248,3 +248,8 @@ class voitureElectrique extends voiture {
 const tesla = new voitureElectrique("Tesla", "Model S", 2024, 600);
 tesla.afficheDetails();
 tesla.afficheAutomatique();
+
+/// c parti sur les dom 
+
+let lettre = document.getElementsByTagName('h1');
+console.log(lettre);
