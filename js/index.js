@@ -211,3 +211,40 @@ if (meilleur) {
 } else {
     console.log("Aucun étudiant trouvé.");
 }
+
+
+/// class en javascript 
+
+class voiture {
+    constructor(marque, modele, annee){
+        this.marque = marque;
+        this.modele = modele;
+        this.annee = annee;
+    }
+
+    afficheDetails() {
+        console.log(`Marque : ${this.marque}, Modele : ${this.modele}, Annee : ${this.annee}`);
+    }
+
+
+}
+
+const voiture1 = new voiture("BMW", "X5" , 2023);
+voiture1.afficheDetails();
+
+// heritage 
+
+class voitureElectrique extends voiture {
+    constructor(marque, modele, annee, autonomie) {
+        super(marque, modele, annee);
+        this.autonomie = autonomie;
+    }
+
+    afficheAutomatique(){
+        console.log(`${this.marque}  ${this.modele}  ${this.annee}  ${this.autonomie}`);
+    }
+}
+
+const tesla = new voitureElectrique("Tesla", "Model S", 2024, 600);
+tesla.afficheDetails();
+tesla.afficheAutomatique();
