@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1739610790 source:c:\users\lass.desktop-saqtcje\desktop\github\societe\main.cpp
+	<iostream>
+	"societeliste.h"
+	"voiture.h"
+
+1739609048 source:c:\users\lass.desktop-saqtcje\desktop\github\societe\societeliste.cpp
+
+1739609779 source:c:\users\lass.desktop-saqtcje\desktop\github\societe\societe.cpp
+	"societe.h"
+
+1739610043 c:\users\lass.desktop-saqtcje\desktop\github\societe\societe.h
+	"voiture.h"
+
+1739610355 c:\users\lass.desktop-saqtcje\desktop\github\societe\voiture.h
+	<iostream>
+	<cstring>
+
+1739610360 source:c:\users\lass.desktop-saqtcje\desktop\github\societe\voiture.cpp
+
+1739610870 c:\users\lass.desktop-saqtcje\desktop\github\societe\societeliste.h
+	"voiture.h"
+	<iostream>
+	<cstring>
+
